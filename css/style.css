@@ -1,0 +1,124 @@
+
+ h1 {
+	font-size: 70px;
+	font-family: 'Fjalla One', sans-serif;
+	color: darkblue;
+	background-color: rgba(245,245,245,0.5);
+	/*text-shadow: #EEEE00 0 0 10px;
+	-webkit-animation-duration: 1s;
+    -webkit-animation-name: glow;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-iteration-count: infinite;
+    animation-duration: 1s;
+    animation-name: glow;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;*/
+   /* -webkit-transform: rotate(-50deg);*/
+    position: relative;
+    top: 210px;
+    width: 380px;
+    padding-left: 10px;
+    /*right: 180px;*/
+}
+
+ 
+    /*} @-webkit-keyframes glow {
+        from { text-shadow: 0 0 0px red; }
+        to { text-shadow: 0 0 20px red; }*/
+
+ h2 {
+	font-size: 50px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	color: whitesmoke;
+	position: relative;
+	top: 180px;
+	left: 0px;
+	/*text-shadow: #EEEE00 0 0 10px;*/
+	/*-webkit-animation-duration: 1s;
+    -webkit-animation-name: glow;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-iteration-count: infinite;
+    animation-duration: 1s;
+    animation-name: glow;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+*/
+}
+/* @-webkit-keyframes glow {
+        from { text-shadow: 0 0 0px red; }
+        to { text-shadow: 0 0 20px red; }
+    }*/
+
+
+
+
+
+
+
+body {
+	width: 720px;
+	height: 1280px;
+	background-image: url("../img/denim.jpeg");
+
+}
+.container {
+	width: 670px;
+	height: 1230px;
+	margin-left: 10%;
+    margin-top: 20%;
+	/*background: whitesmoke;*/
+}
+
+.container img {
+	width: 670px;
+	height: 500px;
+	position: relative;
+    top: 250px;
+}
+
+.container a {
+font-family: 'Fjalla One', sans-serif;
+color: white;
+background: #090a26;
+text-decoration: none;
+font-size: 50px;
+padding: 10px 20px;
+position: relative;
+bottom: 450px;
+left: 110px;
+-webkit-animation-duration: 1s;
+-webkit-animation-name: glow;
+-webkit-animation-direction: alternate;
+-webkit-animation-iteration-count: infinite;
+ animation-duration: 1s;
+ animation-name: glow;
+ animation-direction: alternate;
+ animation-iteration-count: infinite;*/
+   /* -webkit-transform: rotate(-50deg);*/
+}
+
+ @-webkit-keyframes glow {
+        from { text-shadow: 0 0 0px white; }
+        to { text-shadow: 0 0 20px #090a26; }
+    }
+
+
+.container a:hover {
+
+color: #ce2563;
+background: yellow;
+
+}
+
+article {
+	font-size: 50px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	color: #090a26;
+	position: relative;
+	top: 170px;
+	background-color: rgba(245,245,245,0.5);
+	padding: 10px;
+}
+
+/*end*/
+
